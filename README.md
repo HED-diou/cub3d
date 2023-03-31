@@ -1,8 +1,8 @@
 # Cube 3D • 42 - 1337
 
-![Cube3D Screenshot](/Screenshots/p1.png)
+![Cube3D Screenshot1](/Screenshots/p1.png)
 
-![Cube3D Minimap expanded](/Screenshots/p2.png)
+![Cube3D Screenshot2](/Screenshots/p2.png)
 
 <hr>
 
