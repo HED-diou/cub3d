@@ -44,7 +44,8 @@ make
 Run the project by executing the following command:
 
 ```
-./cub3d maps/map.cub
+./cub3D maps/map.cub
+./cub3D_bonus maps/level1.cub
 ```
 **Conclusion**
 
